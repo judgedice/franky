@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p154316-e1620443.adobeaemcloud.com/bin/franklin.delivery/judgedice/franky/main"
+    url: "https://author-p154316-e1620443.adobeaemcloud.com/content/Franky/index.html"
     type: "markup"
     suffix: ".html"
