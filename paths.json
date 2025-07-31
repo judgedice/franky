@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/franky/:/",
-    "/content/franky/configuration:/.helix/config.json",
-    "/content/franky/metadata:/metadata.json"
+    "/content/Franky/:/",
+    "/content/Franky/configuration:/.helix/config.json",
+    "/content/Franky/metadata:/metadata.json"
   ],
   "includes": [
     "/content/franky/"
